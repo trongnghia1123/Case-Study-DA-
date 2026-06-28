@@ -213,7 +213,3 @@ Như kỳ vọng, lỗi Critical có chi phí sửa chữa trung bình cao hơn 
 **3. Tập trung theo loại lỗi**
 
 Lỗi **Functional** chiếm đa số trong tổng số lỗi được ghi nhận. Nếu một loại chiếm hơn 50% khối lượng, đây là một điểm đòn bẩy duy nhất: giải quyết nguyên nhân gốc rễ của loại lỗi chiếm ưu thế sẽ có tác động lớn hơn đến tổng số lỗi so với bất kỳ can thiệp đơn lẻ nào khác.
-
-**Pattern 4 — Phương pháp kiểm tra**
-
-Trong dataset chỉ ghi nhận hai phương pháp: Manual Testing và Visual Inspection. Nếu một phương pháp liên quan đến tỷ lệ phát hiện lỗi Critical cao hơn, điều này có thể cho thấy phương pháp đó hiệu quả hơn trong việc phát hiện các vấn đề nghiêm trọng, hoặc được triển khai nhiều hơn trên các sản phẩm có rủi ro cao. So sánh phân bố mức độ nghiêm trọng theo phương pháp kiểm tra có thể cung cấp thông tin cho các quyết định về việc mở rộng phạm vi kiểm tra tự động.
