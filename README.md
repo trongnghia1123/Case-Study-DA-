@@ -202,15 +202,15 @@ Tổ hợp có giá trị cao nhất:
 
 ### Câu 3. Các điểm đáng chú ý khác
 
-**Pattern 1 — Lỗi theo dây chuyền sản xuất**
+**1. Lỗi theo dây chuyền sản xuất**
 
 Line **4** có **344** lỗi - số lượng lỗi cao nhất trong 4 lines. Nhưng line **3** chiếm tỷ lệ lỗi không cân xứng so với sản lượng của nó cao nhất. Tỷ lệ lỗi (defect rate) là **1.389%**,  có thể thấy 2 dây chuyền này tạo ra nhiều lỗi hơn trên mỗi đơn vị sản phẩm.
 
-**Pattern 2 — Chi phí sửa chữa bất thường theo mức độ nghiêm trọng**
+**2. Chi phí sửa chữa bất thường theo mức độ nghiêm trọng**
 
 Như kỳ vọng, lỗi Critical có chi phí sửa chữa trung bình cao hơn lỗi Minor. Tuy nhiên, phân bố trong từng nhóm mức độ nghiêm trọng khá rộng. Một số lỗi Minor có chi phí sửa chữa nằm trong cùng khoảng với lỗi Moderate, cho thấy tiêu chí phân loại mức độ nghiêm trọng có thể chưa được áp dụng nhất quán giữa các dây chuyền hoặc phương pháp kiểm tra — hoặc một số loại lỗi được gán nhãn Minor lại đòi hỏi công sức sửa chữa không tương xứng.
 
-**Pattern 3 — Tập trung theo loại lỗi**
+**3. Tập trung theo loại lỗi**
 
 Lỗi **Functional** chiếm đa số trong tổng số lỗi được ghi nhận. Nếu một loại chiếm hơn 50% khối lượng, đây là một điểm đòn bẩy duy nhất: giải quyết nguyên nhân gốc rễ của loại lỗi chiếm ưu thế sẽ có tác động lớn hơn đến tổng số lỗi so với bất kỳ can thiệp đơn lẻ nào khác.
 
