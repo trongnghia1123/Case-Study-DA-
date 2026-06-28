@@ -1,4 +1,4 @@
-# RFID Defect Analytics Dashboard
+# CASE STUDY - RFID Defect Analytics Dashboard
 
 Ứng dụng web dashboard theo dõi chất lượng sản xuất trên 4 lines sản xuất
 
