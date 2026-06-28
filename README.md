@@ -46,8 +46,8 @@ RFID_Data-Analyst_Case-Study-Test-Jun/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/phongtdt/RFID_Data-Analyst_Case-Study-Test-Jun.git
-cd RFID_Data-Analyst_Case-Study-Test-Jun
+git clone https://github.com/trongnghia1123/Case-Study-DA-.git
+cd Case-Study-DA-
 ```
 
 ### 2. Tạo và kích hoạt môi trường ảo
